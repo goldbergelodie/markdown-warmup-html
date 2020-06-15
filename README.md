@@ -1,9 +1,3 @@
-# exercise-exquisite-corpse
-Cadavre exquis
-## C'est l'histoire d'un cadavre **exquis** <br>
-Exquis, non parce qu'il était constitué de morceaux patchworké par plusieurs humains, <br>
-Non. Il était _exquis_ , au sens le plus littéral du terme. 
+Le lien vers le fichier markdown est https://github.com/goldbergelodie/markdown-warmup-html/blob/master/markdown.md
 
-Il était **Frankenstein**, *l'horreur équisite*.
-### Chapitre 2: "Les Autres"
-> L'humanité se détruira
+Le repository contient ce README, un fichier markdown et un fichier html appelé index
